@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Admin\Desktop\EC0160_ERICK_DANIEL_RODRIGUEZ_MATA_TECAMAC\.metadata\.plugins\org.eclipse.jdt.core
+493903241.index
+3724974708.index
+1865797976.index
+3741727469.index

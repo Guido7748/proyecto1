@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ALUMNO\Desktop\ECO160_Johann_Mauricio_Muñiz_Ortega_Tecamac\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
